@@ -1,0 +1,71 @@
+Dheeraj Mekala Mallem Kondaiah Venkata
+Tampa, Florida | +1656-952-1218 | linkedin | dheeraj.mmkv@gmail.com
+Education
+Master of Science in Business Analytics and Information Systems (December 2024)
+University Of South Florida, Tampa, Florida (Current GPA: 3.9)
+Relevant Couse work: Data Mining, Data Science Programming, Analytical Methods for Business, Advanced database Management Systems.
+Technical Skills
+•
+Programming Languages: Java, Python, SQL, R
+•
+Libraries: Pandas, NumPy, Scikit-learn
+•
+Databases: MySQL, SQL Server, Snowflake, Postgresql, MongoDB
+•
+Tools: Talend, MSBI, SSIS, SSAS, SSRS, Power BI (DAX, M), IFTTT
+•
+Cloud Platforms: Microsoft Azure, AWS
+•
+Development methodologies, related tools: Agile, SCRUM, Jira, Confluence
+•
+Others: Shell Scripting (Windows, Unix), HTML, CSS
+Relevant Experience
+Power BI Developer: November 2022 – August 2023
+Organization: SNSE Financials, Hyderabad, India
+•
+Loan Management Dashboard:
+o
+Saved the company money: Reduced late loan payments by 50%.
+o
+Made things easier for the bosses: Built a dashboard for the CEO and CFO to easily track loans, interest rates, and schedules.
+o
+Helped them make better decisions: Data-driven insights led to improved financial performance.
+•
+Day Trading Reports:
+o
+Gave them the info they needed: Custom reports tracked profits, trade volume, and more.
+o
+Smarter trading, better results: Data-driven decisions led to winning strategies and happier traders.
+Programmer analyst: Dec 2020 – October 2022
+Organization: Cognizant Technology Solutions, Hyderabad, India
+•
+Roles. and Responsibilities:
+o
+Built secure and efficient data pipelines using Talend ETL in an agile environment.
+o
+Analyzed business requirements to understand data needs and translate them into technical solutions.
+o
+Created logical data models for Snowflake and PostgreSQL databases to optimize data storage and retrieval.
+•
+Impact:
+o
+Saved client 25% data processing time.
+o
+Improved data accuracy by 15% through back-end queries facilitating real-time user updates.
+o
+Enhanced data infrastructure scalability by analyzing and recommending strategic alterations and additions to the existing database structure, future-proofing for growth
+o
+Increased data accessibility by 30% for better collaboration.
+Relevant Projects:
+Predictive Maintenance in Automobiles:
+•
+Developed a machine learning prototype for predicting mechanical failures in vehicles, enhancing safety and reliability. Implemented a webpage for real-time data visualization and risk assessment. The system proactively issues alerts, contributing significantly to the safety of autonomous vehicles and advanced traffic systems through continuous health monitoring.
+Malware Prediction in Android Apps:
+•
+Created a machine learning model to identify malicious Android apps based on app permissions. Utilized various algorithms including Logistic Regression, KNN, SVM, Decision Trees, Random Forest, AdaBoost, XGBoost, and MLP. This project heightened user awareness of mobile malware and aided in developing advanced cybersecurity solutions.
+Relevant Internships
+Organization: eMedEvents – Hyderabad, India - June 2020 – October 2020
+•
+Assisted in preparing reports/dashboards for management stating trends, patterns and predictions using Power BI.
+•
+Prepared final analysis reports to help stakeholders understand the impact of any changes.
